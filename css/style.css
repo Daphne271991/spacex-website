@@ -466,7 +466,7 @@ footer ul li a:hover {
   footer ul li:first-child {
     position: absolute;
     top: 30px;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
   }
 
